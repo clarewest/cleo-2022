@@ -708,7 +708,7 @@ section {
 # My Services
 --------------------------------------------------------------*/
 .services .icon-box {
-  padding: 30px;
+  padding: 20px;
   position: relative;
   overflow: hidden;
   background: #fff;
@@ -716,10 +716,12 @@ section {
   transition: all 0.3s ease-in-out;
   text-align: center;
   border: 1px solid #fff;
+  margin-bottom: 20px;
 }
 
 .services .img {
   height:150px;
+  max-width: 200px;
   padding: 10px;
   padding-bottom: 20px;
   overflow: hidden;

@@ -1,744 +1,771 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Clare & Leo's Wedding</title>
-  <meta content="" name="descriptison">
-  <meta content="" name="keywords">
+    <title>Clare & Leo's Wedding</title>
+    <meta content="" name="descriptison">
+    <meta content="" name="keywords">
 
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <!-- Favicons -->
+    <link href="assets/img/favicon.png" rel="icon">
+    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Satisfy" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Satisfy" rel="stylesheet">
 
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
 
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Laura - v2.1.0
-  * Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
+    <!-- =======================================================
+      * Template Name: Laura - v2.1.0
+      * Template URL: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
+      * Author: BootstrapMade.com
+      * License: https://bootstrapmade.com/license/
+      ======================================================== -->
+  </head>
 
-<body>
+  <body>
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top  d-flex justify-content-center align-items-center header-transparent">
+    <!-- ======= Header ======= -->
+    <header id="header" class="fixed-top  d-flex justify-content-center align-items-center header-transparent">
 
-    <nav class="nav-menu d-none d-lg-block">
-      <ul>
-        <li class="active"><a href="index.html">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#theday">The Day</a></li>
-        <li><a href="#stay">Where to Stay</a></li>
-        <li><a href="#map">Map</a></li>
-        <li><a href="#gethere">How to Get Here</a></li>
-        <li><a href="#contact">Contact</a></li>
+      <nav class="nav-menu d-none d-lg-block">
+        <ul>
+          <li class="active"><a href="index.html">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#theday">The Day</a></li>
+          <li><a href="#stay">Where to Stay</a></li>
+          <li><a href="#map">Map</a></li>
+          <li><a href="#gethere">How to Get Here</a></li>
+          <li><a href="#contact">Contact</a></li>
 
-      </ul>
-    </nav><!-- .nav-menu -->
+        </ul>
+      </nav><!-- .nav-menu -->
 
-  </header><!-- End Header -->
+    </header><!-- End Header -->
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero">
-    <div class="hero-container">
-      <h1>Clare & Leo</h1>
-      <h2>Oxford 2021</h2>
-      <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
-    </div>
-  </section><!-- End Hero -->
+    <!-- ======= Hero Section ======= -->
+    <section id="hero">
+      <div class="hero-container">
+        <h1>Clare & Leo</h1>
+        <h2>Oxford 2021</h2>
+        <a href="#about" class="btn-scroll scrollto" title="Scroll Down"><i class="bx bx-chevron-down"></i></a>
+      </div>
+    </section><!-- End Hero -->
 
-  <main id="main">
+    <main id="main">
 
-    <!-- ======= About Me Section ======= -->
-    <section id="about" class="about">
-      <div class="container">
+      <!-- ======= About Me Section ======= -->
+      <section id="about" class="about">
+        <div class="container">
 
-        <div class="section-title">
- <!--         <span>About Me</span>
-          <h2>About Me</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p> -->
-        </div>
+          <div class="section-title">
+            <!--         <span>About Me</span>
+              <h2>About Me</h2>
+              <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p> -->
+          </div>
 
-        <div class="row">
-          <div class="image col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
-          <div class="col-lg-8 d-flex flex-column align-items-stretch">
-            <div class="content pl-lg-4 d-flex flex-column justify-content-center">
-              <div class="row">
+          <div class="row">
+            <div class="image col-lg-4 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
+            <div class="col-lg-8 d-flex flex-column align-items-stretch">
+              <div class="content pl-lg-4 d-flex flex-column justify-content-center">
+                <div class="row">
 
-                <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
-                  <div class="count-box">
-                    <i class="icofont-clock-time" style="color: #2cbdee;"></i>
-                    <strong><b data-toggle="counter-up">1</b> year <b data-toggle="counter-up">1</b> month <b data-toggle="counter-up">31</b> days </strong>
+                  <div class="col-md-6 mt-5 d-md-flex align-items-md-stretch">
+                    <div class="count-box">
+                      <i class="icofont-clock-time" style="color: #2cbdee;"></i>
+                      <strong><b data-toggle="counter-up">1</b> year <b data-toggle="counter-up">1</b> month <b data-toggle="counter-up">31</b> days </strong>
+                    </div>
                   </div>
+
                 </div>
+              </div><!-- End .content-->
+            </div>
+          </div>
 
+        </div>
+      </section><!-- End About Me Section -->
+
+      <!-- ======= My Resume Section ======= -->
+      <section id="theday" class="resume">
+        <div class="container">
+
+          <div class="section-title">
+            <h2>The Day</h2>
+            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-6"> 
+              <!--           <div class="testimonial-item">
+                <img src="assets/img/about/1.jpg" class="testimonial-img" alt="">
+                </div>
+                <div class="testimonial-item">
+                <img src="assets/img/about/2.jpg" class="testimonial-img" alt="">
+                </div>
+                <div class="testimonial-item">
+                <img src="assets/img/about/3.jpg" class="testimonial-img" alt="">
+                </div> -->
+            </div>
+            <div class="col-lg-6">
+              <!--           <h3 class="resume-title">The Day</h3> -->
+              <div class="resume-item pb-0">
+                <h4> Ceremony at the Bodleian Library</h4>
+                <h5>12.30 - 14.30</h5>
+                <p><em>Civil ceremony at Convocation House followed by drinks reception with sandwiches.</em></p>
               </div>
-            </div><!-- End .content-->
+
+              <div class="resume-item">
+                <h4>Free time</h4>
+                <h5>14.30 - 18.00</h5>
+                <p><em>Free time to explore Oxford. Tea and coffee will be provided at X</em></p>
+              </div>
+              <div class="resume-item">
+                <h4>Reception at Gee's Restaurant</h4>
+                <h5>18.00 - 00.00</h5>
+                <p><em>Dinner at Gee's<em></p>
+              </div>
+            </div>
           </div>
+
         </div>
+      </section><!-- End My Resume Section -->
 
-      </div>
-    </section><!-- End About Me Section -->
 
-    <!-- ======= My Resume Section ======= -->
-    <section id="theday" class="resume">
-      <div class="container">
 
-        <div class="section-title">
-          <h2>The Day</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
-        </div>
+      <!-- ======= Testimonials Section ======= -->
+      <section id="testimonials" class="testimonials">
+        <div class="container">
 
-        <div class="row">
-          <div class="col-lg-6"> 
- <!--           <div class="testimonial-item">
-            <img src="assets/img/about/1.jpg" class="testimonial-img" alt="">
-          </div>
+          <div class="owl-carousel testimonials-carousel">
+
             <div class="testimonial-item">
-            <img src="assets/img/about/2.jpg" class="testimonial-img" alt="">
-          </div>
-            <div class="testimonial-item">
-            <img src="assets/img/about/3.jpg" class="testimonial-img" alt="">
-            </div> -->
-          </div>
-          <div class="col-lg-6">
-            <!--           <h3 class="resume-title">The Day</h3> -->
-            <div class="resume-item pb-0">
-              <h4> Ceremony at the Bodleian Library</h4>
-              <h5>12.30 - 14.30</h5>
-              <p><em>Civil ceremony at Convocation House followed by drinks reception with sandwiches.</em></p>
-            </div>
-
-            <div class="resume-item">
-              <h4>Free time</h4>
-              <h5>14.30 - 18.00</h5>
-              <p><em>Free time to explore Oxford. Tea and coffee will be provided at X</em></p>
-            </div>
-            <div class="resume-item">
-              <h4>Reception at Gee's Restaurant</h4>
-              <h5>18.00 - 00.00</h5>
-              <p><em>Dinner at Gee's<em></p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End My Resume Section -->
-
-
-
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials">
-      <div class="container">
-
-        <div class="owl-carousel testimonials-carousel">
-
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
-            <p>
+              <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+              <h3>Saul Goodman</h3>
+              <h4>Ceo &amp; Founder</h4>
+              <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
+              </p>
+            </div>
 
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
-            <p>
+            <div class="testimonial-item">
+              <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+              <h3>Sara Wilsson</h3>
+              <h4>Designer</h4>
+              <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
+              </p>
+            </div>
 
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
-            <p>
+            <div class="testimonial-item">
+              <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+              <h3>Jena Karlis</h3>
+              <h4>Store Owner</h4>
+              <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
+              </p>
+            </div>
 
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-            <h3>Matt Brandon</h3>
-            <h4>Freelancer</h4>
-            <p>
+            <div class="testimonial-item">
+              <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+              <h3>Matt Brandon</h3>
+              <h4>Freelancer</h4>
+              <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
-          </div>
+              </p>
+            </div>
 
-          <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-            <h3>John Larson</h3>
-            <h4>Entrepreneur</h4>
-            <p>
+            <div class="testimonial-item">
+              <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+              <h3>John Larson</h3>
+              <h4>Entrepreneur</h4>
+              <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
               Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-            </p>
+              </p>
+            </div>
+
           </div>
 
         </div>
+      </section><!-- End Testimonials Section -->
 
-      </div>
-    </section><!-- End Testimonials Section -->
+      <!-- ======= My Portfolio Section ======= -->
+      <section id="portfolio" class="portfolio">
+        <div class="container">
 
-    <!-- ======= My Portfolio Section ======= 
-    <section id="portfolio" class="portfolio">
-      <div class="container">
-
-        <div class="section-title">
-          <span>My Portfolio</span>
-          <h2>My Portfolio</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
-        </div>
-
-        <ul id="portfolio-flters" class="d-flex justify-content-center">
-          <li data-filter="*" class="filter-active">All</li>
-          <li data-filter=".filter-app">App</li>
-          <li data-filter=".filter-card">Card</li>
-          <li data-filter=".filter-web">Web</li>
-        </ul>
-
-        <div class="row portfolio-container">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
+          <div class="section-title">
+            <span>My Portfolio</span>
+            <h2>My Portfolio</h2>
+            <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
+          <ul id="portfolio-flters" class="d-flex justify-content-center">
+            <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-app">App</li>
+            <li data-filter=".filter-card">Card</li>
+            <li data-filter=".filter-web">Web</li>
+          </ul>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
+          <div class="row portfolio-container">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Card 1</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
-              <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt=""></div>
-            <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End My Portfolio Section --> -->
-
-
-
-    <section id="map">
-      <div class="map">
-
-        <!--  <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe> -->
-        <iframe style="border:0; width: 100%; height: 700px;" src="https://www.google.co.uk/maps/d/embed?mid=1EbaDk88Ax2hyjgMQTdc5cbKEzT5DAUQk" frameborder="0" allowfullscreen></iframe>
-
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-info">
+                <h4>App 1</h4>
+                <p>App</p>
+                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
               </div>
+            </div>
 
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-info">
+                <h4>Web 3</h4>
+                <p>Web</p>
+                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
 
-                  <!-- =======  Section ======= -->
-    <section id="gethere" class="specials">
-      <div class="container">
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-info">
+                <h4>App 2</h4>
+                <p>App</p>
+                <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
 
-        <div class="section-title">
-          <h2>How to Get Here</h2>
-          <p>Below are some tips for getting here. Oxford is well-connected, but not very car-friendly. The reception venue is a 20 minute walk, or short taxi ride, from the ceremony venue. If you have any questions about getting here please feel free to get in touch with us.</p>
-        </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-info">
+                <h4>Card 2</h4>
+                <p>Card</p>
+                <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
 
-        <div class="row">
-          <div class="col-lg-3">
-            <ul class="nav nav-tabs flex-column">
-              <li class="nav-item">
-                <a class="nav-link active show" data-toggle="tab" href="#tab-1">By plane</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#tab-2">By bus</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#tab-3">By train</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#tab-4">By car</a>
-              </li>
-            </ul>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-info">
+                <h4>Web 2</h4>
+                <p>Web</p>
+                <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-info">
+                <h4>App 3</h4>
+                <p>App</p>
+                <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-info">
+                <h4>Card 1</h4>
+                <p>Card</p>
+                <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-info">
+                <h4>Card 3</h4>
+                <p>Card</p>
+                <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+              <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt=""></div>
+              <div class="portfolio-info">
+                <h4>Web 3</h4>
+                <p>Web</p>
+                <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+
           </div>
-          <div class="col-lg-9 mt-4 mt-lg-0">
-            <div class="tab-content">
-              <div class="tab-pane active show" id="tab-1">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Arriving by plane</h3>
-                    <p class="font-italic">London Heathrow and London Gatwick are the easiest airports for travelling to Oxford.  </p>
-                    <p><a href="https://airline.oxfordbus.co.uk/heathrow/">The airline</a> bus service runs regularly between Oxford and Heathrow (1h30m) and Gatwick (2h30m), with stops in central Oxford. Return tickets cost £30 and £37, respectively. Tickets can be purchased online, on the app, or on the bus using cash or contactless payment. </p>
+
+        </div>
+      </section><!-- End My Portfolio Section -->
+
+
+      <!-- Map Section -->
+      <section id="map">
+        <div class="map">
+          <div id="google-maps">
+            <iframe style="border:0; width: 100%; height: 700px; pointer-events: none;" src="https://www.google.co.uk/maps/d/embed?mid=1EbaDk88Ax2hyjgMQTdc5cbKEzT5DAUQk" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section> <!-- End Map Section -->
+
+
+      <!-- Start Gethere Section -->
+      <section id="gethere" class="specials">
+        <div class="container">
+          <div class="section-title">
+            <h2>How to Get Here</h2>
+            <p>Below are some tips for getting here. Oxford is well-connected, but not very car-friendly. The reception venue is a 20 minute walk, or short taxi ride, from the ceremony venue. If you have any questions about getting here please feel free to get in touch with us.</p>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-3">
+              <ul class="nav nav-tabs flex-column">
+                <li class="nav-item">
+                  <a class="nav-link active show" data-toggle="tab" href="#tab-1">By plane</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#tab-2">By bus</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#tab-3">By train</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#tab-4">By car</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-lg-9 mt-4 mt-lg-0">
+              <div class="tab-content">
+                <div class="tab-pane active show" id="tab-1">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>Arriving by plane</h3>
+                      <p class="font-italic">London Heathrow and London Gatwick are the easiest airports for travelling to Oxford.  </p>
+                      <p><a href="https://airline.oxfordbus.co.uk/heathrow/">The airline</a> bus service runs regularly between Oxford and Heathrow (1h30m) and Gatwick (2h30m), with stops in central Oxford. Return tickets cost £30 and £37, respectively. Tickets can be purchased online, on the app, or on the bus using cash or contactless payment. </p>
+                    </div>
+                    <div class="col-lg-4 text-center order-1 order-lg-2">
+                      <img src="assets/img/specials-1.jpg" alt="" class="img-fluid">
+                    </div>
                   </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-1.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="tab-pane" id="tab-2">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>Et blanditiis nemo veritatis excepturi</h3>
+                      <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
+                      <p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
+                    </div>
+                    <div class="col-lg-4 text-center order-1 order-lg-2">
+                      <img src="assets/img/specials-2.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="tab-3">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>Impedit facilis occaecati odio neque aperiam sit</h3>
+                      <p class="font-italic">Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut</p>
+                      <p>Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae</p>
+                    </div>
+                    <div class="col-lg-4 text-center order-1 order-lg-2">
+                      <img src="assets/img/specials-3.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="tab-4">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>Fuga dolores inventore laboriosam ut est accusamus laboriosam dolore</h3>
+                      <p class="font-italic">Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus</p>
+                      <p>Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore</p>
+                    </div>
+                    <div class="col-lg-4 text-center order-1 order-lg-2">
+                      <img src="assets/img/specials-4.jpg" alt="" class="img-fluid">
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane" id="tab-5">
+                  <div class="row">
+                    <div class="col-lg-8 details order-2 order-lg-1">
+                      <h3>Est eveniet ipsam sindera pad rone matrelat sando reda</h3>
+                      <p class="font-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro quia.</p>
+                      <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel</p>
+                    </div>
+                    <div class="col-lg-4 text-center order-1 order-lg-2">
+                      <img src="assets/img/specials-5.jpg" alt="" class="img-fluid">
+                    </div>
                   </div>
                 </div>
               </div>
-              <div class="tab-pane" id="tab-2">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Et blanditiis nemo veritatis excepturi</h3>
-                    <p class="font-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
-                    <p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
+            </div>
+          </div>
+      </section>
+        <!-- End Gethere Section -->
+
+
+        <!-- Start what to see/do section --> 
+
+        <section id="info" class="specials">
+          <div class="container">
+            <div class="row">
+
+              <div class="offset-md-2 col-md-8 offset-md-2">
+
+                <ul class="nav" id="ul_info">
+                  <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#tab_stay">Where to stay</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#tab_see">What to do</a>
+                  </li>
+                </ul>
+              </div>
+
+            </div>
+            <div class="row">
+              <div class="col-lg-12 mt-4 mt-lg-0">
+                <div class="tab-content">
+
+                  <div class="tab-pane active show" id="tab_stay">					
+                    <section id="stay" class="services">
+                      <div class="section-title">
+                        <h2>Where to Stay</h2>
+                        <p>Here are some hotels that we recommend</p>
+                      </div>
+
+                      <div class="row">
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+
+                            <img src="assets/img/about/obh.jpg" class="img" alt="">
+                            <h4 class="title"><a href="">Old Bank Hotel</a></h4>
+                            <p class="description">Luxury hotel on the High Street, very close to the Bodleian Library.</p>
+                            <p class="rate">Rooms from £X per night</p>
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <div class="advanced"> Julie's choice</div>
+                            <img src="assets/img/about/th.jpg" class="img" alt="">
+                            <h4 class="title"><a href="https://www.towerhouseoxford.co.uk">Tower House</a></h4>
+                            <p class="description">Social enterprise guest house with seven rooms and breakfast at Turl Street Kitchen</p>
+                            <p class="rate">Rooms from £X per night</p>
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <div class="advanced"> Julie's choice</div>
+                            <img src="assets/img/about/oph.jpg" class="img" alt="">
+                            <h4 class="title"><a href="https://www.oldparsonagehotel.co.uk">Old Parsonage Hotel</a></h4>
+                            <p class="description">Next door to Gee's</p>
+                            <p class="rate">Rooms from £X per night</p>
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <div class="advanced"> Julie's choice</div>
+                            <img src="assets/img/about/ocah.jpg" class="img" alt="">
+                            <h4 class="title"><a href="">Coach and Horses</a></h4>
+                            <p class="description">Boutique B&B on St Clement's Street</p>
+                            <p class="rate">Rooms from £X per night</p>
+                          </div>
+                        </div>
+
+                      </div>
+                      <div class="row">
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <div class="advanced"> Julie's choice</div>
+
+                            <img src="assets/img/about/ucr.jpg" class="img" alt="">
+                            <h4 class="title"><a href="https://www.universityrooms.com/en-GB/city/oxford/home">University Rooms</a></h4>
+                            <p class="description">Stay in one of Oxford's colleges</p>
+                            <p class="rate">Rooms from £X per night</p>
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <div class="advanced"> Julie's choice</div>
+                            <img src="assets/img/about/th.jpg" class="img" alt="">
+                            <h4 class="title"><a href="https://www.towerhouseoxford.co.uk">Tower House</a></h4>
+                            <p class="description">Social enterprise guest house with seven rooms and breakfast at Turl Street Kitchen</p>
+                            <p class="rate">Rooms from £X per night</p>
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <div class="advanced"> Julie's choice</div>
+                            <img src="assets/img/about/oph.jpg" class="img" alt="">
+                            <h4 class="title"><a href="https://www.oldparsonagehotel.co.uk">Old Parsonage Hotel</a></h4>
+                            <p class="description">Next door to Gee's</p>
+                            <p class="rate">Rooms from £X per night</p>
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <div class="advanced"> Julie's choice</div>
+                            <img src="assets/img/about/ocah.jpg" class="img" alt="">
+                            <h4 class="title"><a href="">Coach and Horses</a></h4>
+                            <p class="description">Boutique B&B on St Clement's Street</p>
+                            <p class="rate">Rooms from £X per night</p>
+                          </div>
+                        </div>
+
+                      </div>
+                    </section>
+
+                  </div>	
+
+
+                  <div class="tab-pane" id="tab_see">					
+
+                    <!-- ======= What to do  ======= -->
+                    <section id="stay" class="services">
+
+                      <div class="section-title">
+                        <h2>What to Do</h2>
+                        <p>Some ideas to pass the time</p>
+                      </div>
+
+                      <div class="row">
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+
+                            <img src="assets/img/about/rc.jpg" class="img" alt="">
+                            <h4 class="title"><a href="">The Radcliffe Camera</a></h4>
+                            <p class="description">For the best view, climb the N steps up the tower of the <a href="https://www.universitychurch.ox.ac.uk/content/tower-and-gift-shop">University Church</a> (£5) or have a coffee outside the <a href="https://www.thevaultsandgarden.com">Vaults & Garden Cafe</a> </p>
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <img src="assets/img/about/bg.jpg" class="img" alt="">
+                            <h4 class="title"><a href="https://www.obga.ox.ac.uk"></a>The Botanic Garden</h4>
+                            <p class="description">Where we got engaged. The glasshouses are amazing!</p>
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <img src="assets/img/about/oph.jpg" class="img" alt="">
+                            <h4 class="title"><a href="">Go Punting</a></h4>
+                            <p class="description">Rent a punt from <a href="https://www.oxfordpunting.co.uk/punt-hire/"</a>Magdalen Bridge</a>, if you're brave. £24 per punt, for up to 5 people (officially)</p>
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <img src="assets/img/about/ocah.jpg" class="img" alt="">
+                            <h4 class="title"><a href="">Coach and Horses</a></h4>
+                            <p class="description">Boutique B&B on St Clement's Street</p>
+                          </div>
+                        </div>
+
+                      </div>
+
+                      <div class="row">
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <img src="assets/img/about/mb.jpg" class="img" alt="">
+                            <h4 class="title"><a href="">The Missing Bean</a></h4>
+                            <p class="description">Excellent coffee on Turl Street, opposite Clare's college</p>
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <img src="assets/img/about/gb.jpg" class="img" alt="">
+                            <h4 class="title"><a href="https://www.towerhouseoxford.co.uk">Gail's Bakery</a></h4>
+                            <p class="description">Blah</p>
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <img src="assets/img/about/tt.jpg" class="img" alt="">
+                            <h4 class="title"><a href="https://www.oldparsonagehotel.co.uk">The Turf Tavern</a></h4>
+                            <p class="description">Next door to Gee's</p>
+                          </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+                          <div class="icon-box">
+                            <img src="assets/img/about/ra.jpg" class="img" alt="">
+                            <h4 class="title"><a href="">The Royal Oak</a></h4>
+                            <p class="description">The pub of choice for statisticians and mathematicians</p>
+                          </div>
+                        </div>
+
+                      </div>
+
+                    </section><!-- End My Services Section -->
+
                   </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-2.jpg" alt="" class="img-fluid">
-                  </div>
+
                 </div>
               </div>
-              <div class="tab-pane" id="tab-3">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Impedit facilis occaecati odio neque aperiam sit</h3>
-                    <p class="font-italic">Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut</p>
-                    <p>Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-3.jpg" alt="" class="img-fluid">
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane" id="tab-4">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Fuga dolores inventore laboriosam ut est accusamus laboriosam dolore</h3>
-                    <p class="font-italic">Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus</p>
-                    <p>Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-4.jpg" alt="" class="img-fluid">
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane" id="tab-5">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Est eveniet ipsam sindera pad rone matrelat sando reda</h3>
-                    <p class="font-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro quia.</p>
-                    <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/specials-5.jpg" alt="" class="img-fluid">
-                  </div>
-                </div>
-              </div>
             </div>
+
           </div>
-        </div>
+        </section><!-- End My Services Section -->
 
-      </div>
-    </section><!-- End Specials Section -->
-    
-    <!-- ======= My Services Section ======= -->
-    <section id="stay" class="services">
-      <div class="container">
+        <!-- ======= Contact Me Section ======= -->
+        <section id="contact" class="contact">
+          <div class="container">
 
-        <div class="section-title">
-          <h2>Where to Stay</h2>
-          <p>Here are some hotels that we recommend</p>
-        </div>
-
-        <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-
-            <img src="assets/img/about/obh.jpg" class="img" alt="">
-              <h4 class="title"><a href="">Old Bank Hotel</a></h4>
-              <p class="description">Luxury hotel on the High Street, very close to the Bodleian Library.</p>
-              <p class="rate">Rooms from £X per night</p>
+            <div class="section-title">
+              <h2>Contact Us</h2>
+              <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
             </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-              <div class="advanced"> Julie's choice</div>
-            <img src="assets/img/about/th.jpg" class="img" alt="">
-              <h4 class="title"><a href="https://www.towerhouseoxford.co.uk">Tower House</a></h4>
-              <p class="description">Social enterprise guest house with seven rooms and breakfast at Turl Street Kitchen</p>
-              <p class="rate">Rooms from £X per night</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-              <div class="advanced"> Julie's choice</div>
-            <img src="assets/img/about/oph.jpg" class="img" alt="">
-              <h4 class="title"><a href="https://www.oldparsonagehotel.co.uk">Old Parsonage Hotel</a></h4>
-              <p class="description">Next door to Gee's</p>
-              <p class="rate">Rooms from £X per night</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-              <div class="advanced"> Julie's choice</div>
-            <img src="assets/img/about/ocah.jpg" class="img" alt="">
-              <h4 class="title"><a href="">Coach and Horses</a></h4>
-              <p class="description">Boutique B&B on St Clement's Street</p>
-              <p class="rate">Rooms from £X per night</p>
-            </div>
-          </div>
-
-        </div>
-        <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-              <div class="advanced"> Julie's choice</div>
-
-            <img src="assets/img/about/ucr.jpg" class="img" alt="">
-              <h4 class="title"><a href="https://www.universityrooms.com/en-GB/city/oxford/home">University Rooms</a></h4>
-              <p class="description">Stay in one of Oxford's colleges</p>
-              <p class="rate">Rooms from £X per night</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-              <div class="advanced"> Julie's choice</div>
-            <img src="assets/img/about/th.jpg" class="img" alt="">
-              <h4 class="title"><a href="https://www.towerhouseoxford.co.uk">Tower House</a></h4>
-              <p class="description">Social enterprise guest house with seven rooms and breakfast at Turl Street Kitchen</p>
-              <p class="rate">Rooms from £X per night</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-              <div class="advanced"> Julie's choice</div>
-            <img src="assets/img/about/oph.jpg" class="img" alt="">
-              <h4 class="title"><a href="https://www.oldparsonagehotel.co.uk">Old Parsonage Hotel</a></h4>
-              <p class="description">Next door to Gee's</p>
-              <p class="rate">Rooms from £X per night</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-              <div class="advanced"> Julie's choice</div>
-            <img src="assets/img/about/ocah.jpg" class="img" alt="">
-              <h4 class="title"><a href="">Coach and Horses</a></h4>
-              <p class="description">Boutique B&B on St Clement's Street</p>
-              <p class="rate">Rooms from £X per night</p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End My Services Section --> 
-
-    <!-- ======= What to see  ======= -->
-    <section id="stay" class="services">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>What to See</h2>
-          <p>Some ideas to pass the time</p>
-        </div>
-
-        <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-
-            <img src="assets/img/about/rc.jpg" class="img" alt="">
-              <h4 class="title"><a href="">The Radcliffe Camera</a></h4>
-              <p class="description">For the best view, climb the N steps up the tower of the <a href="https://www.universitychurch.ox.ac.uk/content/tower-and-gift-shop">University Church</a> (£5) or have a coffee outside the <a href="https://www.thevaultsandgarden.com">Vaults & Garden Cafe</a> </p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-            <img src="assets/img/about/bg.jpg" class="img" alt="">
-            <h4 class="title"><a href="https://www.obga.ox.ac.uk"></a>The Botanic Garden</h4>
-              <p class="description">Where we got engaged. The glasshouses are amazing!</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-            <img src="assets/img/about/oph.jpg" class="img" alt="">
-              <h4 class="title"><a href="">Go Punting</a></h4>
-              <p class="description">Rent a punt from <a href="https://www.oxfordpunting.co.uk/punt-hire/"</a>Magdalen Bridge</a>, if you're brave. £24 per punt, for up to 5 people (officially)</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-            <img src="assets/img/about/ocah.jpg" class="img" alt="">
-              <h4 class="title"><a href="">Coach and Horses</a></h4>
-              <p class="description">Boutique B&B on St Clement's Street</p>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="section-title">
-          <h2>Where to have a drink</h2>
-          <p>Some ideas to pass the time</p>
-        </div>
-
-
-        <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-            <img src="assets/img/about/mb.jpg" class="img" alt="">
-              <h4 class="title"><a href="https://www.universityrooms.com/en-GB/city/oxford/home">The Missing Bean</a></h4>
-              <p class="description">Stay in one of Oxford's colleges</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-            <img src="assets/img/about/gb.jpg" class="img" alt="">
-              <h4 class="title"><a href="https://www.towerhouseoxford.co.uk">Gail's Bakery</a></h4>
-              <p class="description">Blah</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-            <img src="assets/img/about/tt.jpg" class="img" alt="">
-              <h4 class="title"><a href="https://www.oldparsonagehotel.co.uk">The Turf Tavern</a></h4>
-              <p class="description">Next door to Gee's</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box">
-            <img src="assets/img/about/ra.jpg" class="img" alt="">
-              <h4 class="title"><a href="">The Royal Oak</a></h4>
-              <p class="description">The pub of choice for statisticians and mathematicians</p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End My Services Section -->
-
-    <!-- ======= Contact Me Section ======= -->
-    <section id="contact" class="contact">
-      <div class="container">
-
-        <div class="section-title">
-          <h2>Contact Us</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-6">
 
             <div class="row">
-              <div class="col-md-12">
-                <div class="info-box">
-                  <i class="bx bx-share-alt"></i>
-                  <h3>Social Profiles</h3>
-                  <div class="social-links">
-                    <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
-                    <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
-                    <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
-                    <a href="#" class="google-plus"><i class="icofont-skype"></i></a>
-                    <a href="#" class="linkedin"><i class="icofont-linkedin"></i></a>
+
+              <div class="col-lg-6">
+
+                <div class="row">
+                  <div class="col-md-12">
+                    <div class="info-box">
+                      <i class="bx bx-share-alt"></i>
+                      <h3>Social Profiles</h3>
+                      <div class="social-links">
+                        <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
+                        <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
+                        <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
+                        <a href="#" class="google-plus"><i class="icofont-skype"></i></a>
+                        <a href="#" class="linkedin"><i class="icofont-linkedin"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="info-box mt-4">
+                      <i class="bx bx-envelope"></i>
+                      <h3>Email Me</h3>
+                      <p>contact@example.com</p>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="info-box mt-4">
+                      <i class="bx bx-phone-call"></i>
+                      <h3>Call Me</h3>
+                      <p>+1 5589 55488 55</p>
+                    </div>
                   </div>
                 </div>
+
               </div>
-              <div class="col-md-6">
-                <div class="info-box mt-4">
-                  <i class="bx bx-envelope"></i>
-                  <h3>Email Me</h3>
-                  <p>contact@example.com</p>
-                </div>
+
+              <div class="col-lg-6">
+                <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                  <div class="form-row">
+                    <div class="col-md-6 form-group">
+                      <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                      <div class="validate"></div>
+                    </div>
+                    <div class="col-md-6 form-group">
+                      <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                      <div class="validate"></div>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                    <div class="validate"></div>
+                  </div>
+                  <div class="form-group">
+                    <textarea class="form-control" name="message" rows="6" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                    <div class="validate"></div>
+                  </div>
+                  <div class="mb-3">
+                    <div class="loading">Loading</div>
+                    <div class="error-message"></div>
+                    <div class="sent-message">Your message has been sent. Thank you!</div>
+                  </div>
+                  <div class="text-center"><button type="submit">Send Message</button></div>
+                </form>
               </div>
-              <div class="col-md-6">
-                <div class="info-box mt-4">
-                  <i class="bx bx-phone-call"></i>
-                  <h3>Call Me</h3>
-                  <p>+1 5589 55488 55</p>
-                </div>
-              </div>
+
             </div>
 
           </div>
+        </section><!-- End Contact Me Section -->
 
-          <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="form-row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                  <div class="validate"></div>
-                </div>
-                <div class="col-md-6 form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                  <div class="validate"></div>
-                </div>
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                <div class="validate"></div>
-              </div>
-              <div class="form-group">
-                <textarea class="form-control" name="message" rows="6" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-                <div class="validate"></div>
-              </div>
-              <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-          </div>
 
+    </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+      <div class="container">
+        <h3>Laura Thomson</h3>
+        <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+        <div class="social-links">
+          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
-
+        <div class="copyright">
+          <!--       &copy; Copyright <strong><span>Laura</span></strong>. All Rights Reserved -->
+        </div>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/ -->
+          Adapted from a design by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        </div>
       </div>
-    </section><!-- End Contact Me Section -->
+    </footer><!-- End Footer -->
 
+    <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
-  </main><!-- End #main -->
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/jquery/jquery.min.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+    <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+    <script src="assets/vendor/counterup/counterup.min.js"></script>
+    <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/venobox/venobox.min.js"></script>
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="container">
-      <h3>Laura Thomson</h3>
-      <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
-      <div class="social-links">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div>
-      <div class="copyright">
-        <!--       &copy; Copyright <strong><span>Laura</span></strong>. All Rights Reserved -->
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/laura-free-creative-bootstrap-theme/ -->
-        Adapted from a design by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
 
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+    <!-- Map js -->
+    <script src="js/map.js"></script>
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="assets/vendor/counterup/counterup.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-
-</body>
+  </body>
 
 </html>

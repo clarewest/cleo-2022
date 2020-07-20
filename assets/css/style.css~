@@ -339,7 +339,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 {
   color: #eee;
   margin-bottom: 50px;
-  font-size: 13px;
+  font-size: 24px;
   font-weight: 500;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -708,7 +708,7 @@ section {
 # My Services
 --------------------------------------------------------------*/
 .services .icon-box {
-  padding: 30px;
+  padding: 20px;
   position: relative;
   overflow: hidden;
   background: #fff;
@@ -716,10 +716,12 @@ section {
   transition: all 0.3s ease-in-out;
   text-align: center;
   border: 1px solid #fff;
+  margin-bottom: 20px;
 }
 
 .services .img {
   height:150px;
+  width: 200px;
   padding: 10px;
   padding-bottom: 20px;
   overflow: hidden;
@@ -1485,4 +1487,7 @@ section {
   }
 }
 
-
+ul#ul_info li {
+  display:inline;
+	padding: 0em 3em;
+}
