@@ -1491,3 +1491,12 @@ ul#ul_info li {
   display:inline;
 	padding: 0em 3em;
 }
+
+#info {
+	background: rgba(237, 235, 160, 0.25)
+}
+
+#map {
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
