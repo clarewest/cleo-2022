@@ -1485,3 +1485,7 @@ section {
   }
 }
 
+ul#ul_info li {
+  display:inline;
+	padding: 0em 3em;
+}
