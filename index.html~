@@ -177,29 +177,7 @@
               <h4>Reception Venue</h4>
               <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Gee's is one of our favourite restaurants in Oxford. It is a grade II listed Victorian conservatory built in 1897, and originally sold plants, flowers, fruit and vegetables. 
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
-
-            <div class="testimonial-item">
-              <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-              <h3>Matt Brandon</h3>
-              <h4>Freelancer</h4>
-              <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-              </p>
-            </div>
-
-            <div class="testimonial-item">
-              <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-              <h3>John Larson</h3>
-              <h4>Entrepreneur</h4>
-              <p>
-              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+              Gee's is one of our favourite restaurants in Oxford. It is a grade II listed Victorian conservatory, <a href="https://www.geesrestaurant.co.uk/gees-restaurant-bar-history/">originally built in 1897</a> to sell plants, flowers, fruit and vegetables. 
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
             </div>
