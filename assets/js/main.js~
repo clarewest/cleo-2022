@@ -154,7 +154,7 @@
   // Testimonials carousel (uses the Owl Carousel library)
   $(".testimonials-carousel").owlCarousel({
     autoplay: true,
-    autoplayTimeout:12000,
+    autoplayTimeout:15000,
     dots: true,
     loop: true,
     items: 1
@@ -189,7 +189,16 @@
     items: 1
   });
 
-
+  // Init AOS from a different template Bikin
+  function aos_init() {
+    AOS.init({
+      duration: 1000,
+      once: true
+    });
+  }
+  $(window).on('load', function() {
+    aos_init();
+  });
 })(jQuery);
 
 
