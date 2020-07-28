@@ -685,7 +685,7 @@ section {
 }
 
 .resume .testimonial-item .testimonial-img {
-  width: 100px;
+  width: 200px;
   border-radius: 50%;
   border: 6px solid rgba(255, 255, 255, 0.15);
   margin: 0 auto;
@@ -820,10 +820,11 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 100px;
+  width: 200px;
   border-radius: 50%;
   border: 6px solid rgba(255, 255, 255, 0.15);
   margin: 0 auto;
+  margin-bottom: 20px;
 }
 
 .testimonials .testimonial-item h3 {
