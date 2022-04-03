@@ -47,7 +47,7 @@
 					<li><a href="#gethere">How to Get Here</a></li>
 					<li><a href="#see">Things to See</a></li>
 					<li><a href="#faq">Questions</a></li>
-					<li><a href="#contact">Contact</a></li>
+					<li><a href="#rsvp">RSVPs</a></li>
 
 				</ul>
 			</nav><!-- .nav-menu -->
@@ -410,69 +410,47 @@
 
 
 			<!-- ======= Contact Me Section ======= -->
-			<section id="contact" class="contact">
+			<section id="rsvp" class="rsvp">
 				<div class="container">
-
 					<div class="section-title">
-						<h2>Contact Us</h2>
-						<p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+						<h2>RSVP</h2>
+						<p>Please RSVP via the form below or email us by XXXXX</p>
 					</div>
-
 					<div class="row">
-
 						<div class="col-lg-6">
-
-							<div class="row">
-								<div class="col-md-12">
-									<div class="info-box">
-										<i class="bx bx-share-alt"></i>
-										<h3>Social Profiles</h3>
-										<div class="social-links">
-											<a href="#" class="twitter"><i class="icofont-twitter"></i></a>
-											<a href="#" class="facebook"><i class="icofont-facebook"></i></a>
-											<a href="#" class="instagram"><i class="icofont-instagram"></i></a>
-											<a href="#" class="google-plus"><i class="icofont-skype"></i></a>
-											<a href="#" class="linkedin"><i class="icofont-linkedin"></i></a>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-6">
-									<div class="info-box mt-4">
-										<i class="bx bx-envelope"></i>
-										<h3>Email Me</h3>
-										<p>contact@example.com</p>
-									</div>
-								</div>
-								<div class="col-md-6">
-									<div class="info-box mt-4">
-										<i class="bx bx-phone-call"></i>
-										<h3>Call Me</h3>
-										<p>+1 5589 55488 55</p>
-									</div>
-								</div>
-							</div>
-
-						</div>
-
-						<div class="col-lg-6">
-							<form action="forms/contact.php" method="post" role="form" class="php-email-form">
+							<form action="https://docs.google.com/forms/d/e/1FAIpQLSfI9mcn01FTx5yVlKBXfgR0HShXIFdFj0TJ6Kw9VDbleEPESA/viewform?usp=sf_link" method="post" role="form" class="php-email-form">
 								<div class="form-row">
+
 									<div class="col-md-6 form-group">
-										<input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+										<input type="email" name="email" class="form-control" id="email" placeholder="Email" data-rule="email" data-msg="Please enter a valid email" />
 										<div class="validate"></div>
 									</div>
 									<div class="col-md-6 form-group">
-										<input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+										<input type="text" class="form-control" name="name1" id="name1" placeholder="Guest 1 Name" data-rule="minlen:4" data-msg="Please enter at least 4 characters" />
+										<div class="validate"></div>
+									</div>
+									<div class="col-md-6 form-group">
+										<input type="text" class="form-control" name="name2" id="name2" placeholder="Guest 2 Name (optional)" data-rule="minlen:4" data-msg="Please enter at least 4 characters" />
 										<div class="validate"></div>
 									</div>
 								</div>
+								<div class="form-check">
+  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="Accept">
+  <label class="form-check-label" for="exampleRadios1">
+    Accept
+  </label>
+</div>
+<div class="form-check">
+  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="Decline">
+  <label class="form-check-label" for="exampleRadios2">
+    Decline
+  </label>
+  <br>
+  <br>
+</div>
+
 								<div class="form-group">
-									<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-									<div class="validate"></div>
-								</div>
-								<div class="form-group">
-									<textarea class="form-control" name="message" rows="6" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-									<div class="validate"></div>
+									<textarea class="form-control" name="message" rows="6" data-msg="Message" placeholder="Message (optional)"></textarea>
 								</div>
 								<div class="mb-3">
 									<div class="loading">Loading</div>
